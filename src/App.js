@@ -13,8 +13,9 @@ const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
-const Resume = lazy(() => import('./pages/Resume'));
-const Stats = lazy(() => import('./pages/Stats'));
+const CV = lazy(() => import('./pages/CV'));
+const Resume = lazy(() => import('./pages/CV'));
+//const Stats = lazy(() => import('./pages/Stats')); <Route path="/stats" element={<Stats />} />
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -23,9 +24,9 @@ const App = () => (
         <Route path="/" element={<Index />} />
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
-        <Route path="/stats" element={<Stats />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="/resume" element={<Resume />} />
+        <Route path="/CV" element={<CV />} />
+        <Route path="/Resume" element={<Resume />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Suspense>

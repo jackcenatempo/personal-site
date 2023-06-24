@@ -29,13 +29,13 @@ const work = [
       'Productivity impacts of LLMs'
     ],
   },
- // {
-//name: 'Everything Else',
-//position: 'My CV',
-//url: 'https://docs.google.com/document/d/1vTDXQ_l5cApoQfFeKJOR1U5WDdqzQVagThDioREzfhA/edit?usp=sharing',
-//startDate: 'March 1999',
-//summary: 'You can find my CV at the link provided.'
-//  },
+  {
+name: 'Everything Else',
+position: 'My CV',
+url: 'https://docs.google.com/document/d/1vTDXQ_l5cApoQfFeKJOR1U5WDdqzQVagThDioREzfhA/edit?usp=sharing',
+startDate: 'March 1999',
+summary: 'You can find my CV at the link provided.'
+  },
 ];
 
 export default work;
