@@ -40,6 +40,21 @@ const skills = [
     category: ['Languages'],
   },
   {
+    title: 'Stata',
+    competency: 4,
+    category: ['Languages'],
+  },
+  {
+    title: 'U-SQL',
+    competency: 3,
+    category: ['Languages'],
+  },
+  {
+    title: 'Qualtrics',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
     title: 'Data Visualization',
     competency: 4,
     category: ['Data Science'],
