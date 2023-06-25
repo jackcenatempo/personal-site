@@ -15,7 +15,6 @@ const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
 const CV = lazy(() => import('./pages/CV'));
 const Resume = lazy(() => import('./pages/CV'));
-//const Stats = lazy(() => import('./pages/Stats')); <Route path="/stats" element={<Stats />} />
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
