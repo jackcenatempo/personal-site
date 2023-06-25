@@ -26,7 +26,7 @@ const work = [
       'Demographic trends in hybrid work environments',
       'Models of Mid-range climate changes and electricity markets',
       'Congestion pricing via HOT lanes',
-      'Productivity impacts of LLMs'
+      'Productivity impacts of LLMs',
     ],
   },
 ];
