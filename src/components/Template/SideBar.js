@@ -18,7 +18,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi! I&apos;m Jack, a Pre-doctoral Research Fellow with the Economics and Computation group at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/"> Microsoft Research </a> in Cambridge, Massachusetts. In 2022 I received my undergraduate degree in economics from the University of Georgia and now am missing the warm weather full-time.</p>
+      <p>Hi! I&apos;m Jack, a Pre-doctoral Research Fellow with the Economics and Computation group at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/"> Microsoft Research </a> in Cambridge, Massachusetts. I received my undergraduate degree in economics from the University of Georgia and now am missing the warm weather full-time.</p>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
