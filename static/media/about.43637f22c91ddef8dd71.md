@@ -9,8 +9,8 @@ I'm currently a Pre-Doctoral Research Assistant with the Economics and Computati
 - _New England:_ Where I live, work, and have access to plentiful seafood.
 
 # Why I'm Up To It
-- I am a big, fat nerd!
-- More specifically, I am interested in labor markets, health insurance/outcomes, and the role that data access plays in the decisions individuals make in these areas. For example, when people with employer-sponsored health insurance opt into fitness tracking programs, how does their behavior change and their premiums alongside it? (if at all!)
+- I'm a nerd.
+- More specifically, I'm interested in labor markets, health insurance/outcomes, and the role that data access plays in the decisions individuals make in these areas. For example, when people with employer-sponsored health insurance opt into fitness tracking programs, how does their behavior change and their premiums alongside it? (if at all!)
 - I hope to earn a PhD in economics. Although "Dr. Cenatempo" doesn't have the _best_ ring to it, the benefits outweigh that. I am currently working on my application materials for this fall's admissions cycle.
 
 # Some history
