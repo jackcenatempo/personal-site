@@ -61,7 +61,7 @@ const Skills = ({ skills, categories }) => {
       <div className="link-to" id="skills" />
       <div className="title">
         <h3>Skills</h3>
-        <p>Note: I think these sections are silly, but everyone seems to have one (and this one is interactive)!</p>
+        <p>Note: I think these sections are often silly, but this one is interactive!</p>
       </div>
       <div className="skill-button-container">
         {getButtons()}

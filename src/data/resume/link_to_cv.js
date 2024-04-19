@@ -1,4 +1,4 @@
-const cv_link = [
+const cvlink = [
   {
     school: 'The University of Georgia',
     link: 'https://docs.google.com/document/d/1vTDXQ_l5cApoQfFeKJOR1U5WDdqzQVagThDioREzfhA/edit?usp=sharing',
@@ -6,4 +6,4 @@ const cv_link = [
   },
 ];
 
-export default cv_link;
+export default cvlink;
