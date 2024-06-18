@@ -1,35 +1,43 @@
 
-# What I'm Up To
+## What am I up to?
 
-I'm currently a Pre-Doctoral Research Assistant with the Economics and Computation group at Microsoft Research New England. Let's break that down.
-- _Pre-Doctoral:_ I am in the stage of my career before earning a PhD. Sounds kind of presumptuous, right? If you think about it, anyone that doesn't have and isn't completing a PhD is in a pre-doctoral stage of his life. Well, I'm going to spin this to mean that I am hopeful that I'll (i) get into a program and (ii) complete it. I'll talk about the subject matter later.
-- _Research Assistant:_ I am helping people with PhD's do the thing that I want to do later. This involves a lot of reading, working with data, and taking copious notes. 
-- _Economics and Computation:_ This is the subject matter I mentioned earlier. I see myself more as an economics person, but the field lies at the intersection of the two. Here's a blurb from the group's website to inform you better than I ever could: "Economics informs what outcomes algorithms can compute in the presence of self-motivated individuals. Computer science offers a theory of complexity and approximation, thereby both imposing realistic constraints on the space of solutions and relaxing the metric by which we judge them. Together, these interdisciplinary researchers can design and build markets and platforms with robust and socially desirable properties." 
-- _Microsoft Research_: The  organization within Microsoft in which I work. I specifically belong to the New England Research and Development Center (NERD). It's an interdisciplinary research space where I've been able to interact with work studying anything from biology to social media.
-- _New England:_ Where I live, work, and have access to plentiful seafood.
+I'm currently a Pre-Doctoral Research Assistant with the Economics and Computation group at Microsoft Research New England. 
+- If you're curious about [E&C](https://www.microsoft.com/en-us/research/theme/economics-and-computation/overview/): "Economics informs what outcomes algorithms can compute in the presence of self-motivated individuals. Computer science offers a theory of complexity and approximation, thereby both imposing realistic constraints on the space of solutions and relaxing the metric by which we judge them. Together, these interdisciplinary researchers can design and build markets and platforms with robust and socially desirable properties." 
+- If you're curious about [MSR](https://www.microsoft.com/en-us/research/): This is the organization within Microsoft in which I work. I specifically belong to the New England Research and Development Center (NERD). It's an interdisciplinary research lab where I've been able to interact with experts on biological sciences, sociotechnical systems, cryptography, sphere packing, and more.
 
-# Why I'm Up To It
-- I'm a nerd.
-- More specifically, I'm interested in labor markets, health insurance/outcomes, and the role that data access plays in the decisions individuals make in these areas. For example, when people with employer-sponsored health insurance opt into fitness tracking programs, how does their behavior change and their premiums alongside it? (if at all!)
-- I hope to earn a PhD in economics. Although "Dr. Cenatempo" doesn't have the _best_ ring to it, the benefits outweigh that. I am currently working on my application materials for this fall's admissions cycle.
+## What am I interested in?
+- I'd call myself an aspiring [applied microeconomist](https://economics.brown.edu/academics/undergraduate/areas-study/applied-microeconomics#:~:text=The%20use%20of%20data%20and,%2C%20health%2C%20and%20environmental%20economics.), but my interests are still broad.
+- Currently, I'm interested in online platforms and the role of technology companies/technological innovation in the acquisiton of employment and health care/information.
 
-# Some history
-- I'm originally from Atlanta, Georgia. If you're not familiar, that means I grew up inside the Hartsfield-Jackson International Airport, attended kindergarten inside a Waffle House, and have Diet Coke instead of blood. 
-- I attended the University of Georgia in Athens, arguably the best college town in the country. If you are visiting for any reason, I must recommend Buvez for coffee, the World Famous for late-night food, Seabear Oyster Bar for a fun dinner, The Lark for a lovely glass of wine, and The Old Pal for a _stiff_ drink.
-- I moved to Cambridge in June of 2022 and instantly tacked on about 15 IQ points doing so.
 
-# I Like
-- running and hiking
-- crosswords
+## What inspires/has inspired me?
+# Academic Papers
+- Choosing these is difficult! Will update soon.
+<!-- - [_Generative AI at Work:_](https://danielle-li.github.io/assets/docs/GenerativeAIatWork.pdf) Brynjolffson, Li, and Raymond (2023) -->
+
+
+# Books
+- See "Academic Papers"
+
+# Other
+- See "Academic Papers"
+
+## What's my background?
+- I'm originally from Atlanta, Georgia. That's right; there's a city outside of the airport.
+<!-- If you're not familiar, that means I grew up inside the Hartsfield-Jackson International Airport, attended kindergarten inside a Waffle House, and have Diet Coke instead of blood.  -->
+- I attended the University of Georgia in Athens - arguably the best college town in the country. If you're ever in town, I must recommend Buvez for coffee, the World Famous for late-night food, Seabear Oyster Bar for a fun dinner, The Lark for a lovely glass of wine, and The Old Pal for a _stiff_ drink.
+- I moved to Cambridge in June of 2022 to start as an RA at MSR.
+- In July of 2024, I'll be moving to New York City to start my PhD at Columbia.
+
+## What else do I like?
 - elaborate meal-prepping
-- calculating the tip in my head
+- running, hiking, and biking (casually)
 - overpriced coffee
+- calculating the tip in my head
+- the beach
+- crosswords
 - public transportation
 - funky, natural wine
-- arts *and* crafts
-- seasonal produce (rhubarb <3)
-- the simple beauty of ceramics
+- seasonal produce
 - flea markets
-
-# Some Reading I've Enjoyed
-- Under Construction!
+- DIY-ing
