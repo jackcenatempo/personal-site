@@ -11,7 +11,9 @@
       "components": ["Link"],
       "specialLink": ["to", "hrefLeft", "hrefRight"],
       "aspects": ["noHref", "invalidHref", "preferButton"],
-      "linebreak-style": 0, // JWC made these changes for CRLF/LF failure per adaption guidelines.
+      // "linebreak-style": 0, // JWC made these changes for CRLF/LF failure per adaption guidelines.
+      // "linebreak-style": ["error", process.platform === "win32" ? "windows" : "unix"],
+      "linebreak-style": ["error", "windows"],
       "global-require": 0,
       "eslint linebreak-style": [0, "error", "windows"]
     }],
