@@ -17,12 +17,13 @@ const work = [
     position: 'Pre-Doctoral Research Assistant',
     url: 'https://www.microsoft.com/en-us/research/theme/economics-and-computation/',
     startDate: 'June 2022',
+    endDate:  'July 2024',
     summary: `The Economics and Computation group at Microsoft Research New England studies a variety of topics at the intersection of economics and computer science.
-    I have had the privilege of working on a wide variety of topics with unique datasets. A sample of the research I've worked on:`,
+    I've had the privilege of working on a wide variety of topics with unique datasets. A sample of the research topics I've worked on:`,
     highlights: [
+      'Generative AI and its effects on collaboration and productivity within organizations',
       'Search engine markets, network effects, and the role of defaults',
-      'Models of mid-range climate changes and electricity markets',
-      'Productivity impacts of LLMs',
+      'Models of mid-range climate change, utility markets, and demographic change',
       'Bias in human-annotated labeling systems',
       'Demographic trends in hybrid work environments',
       'Congestion pricing via HOT lanes',
