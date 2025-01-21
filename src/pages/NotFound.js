@@ -9,6 +9,7 @@ const PageNotFound = () => (
         <meta name="description" content="The content you are looking for cannot be found." />
       </Helmet>
       <h1>Page Not Found</h1>
+      <h3>If you&apos;re looking for my email address, please refer to my CV.</h3>
       <p>Return <Link to="/">home</Link>.</p>
     </div>
   </HelmetProvider>

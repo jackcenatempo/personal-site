@@ -17,7 +17,7 @@ const work = [
     position: 'Pre-Doctoral Research Assistant',
     url: 'https://www.microsoft.com/en-us/research/theme/economics-and-computation/',
     startDate: 'June 2022',
-    endDate:  'July 2024',
+    endDate: 'July 2024',
     summary: `The Economics and Computation group at Microsoft Research New England studies a variety of topics at the intersection of economics and computer science.
     I've had the privilege of working on a wide variety of topics with unique datasets. A sample of the research topics I've worked on:`,
     highlights: [
