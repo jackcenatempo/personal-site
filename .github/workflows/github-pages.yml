@@ -30,6 +30,6 @@ jobs:
       run: |
           git config user.name "Automated"
           git config user.email "jackcenatempo@gmail.com"
-          git remote set-url origin ssh://git:${GITHUB_TOKEN}@github.com/jackcenatempo/personal-site.git
-          ## git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/jackcenatempo/personal-site.git
+          ## git remote set-url origin ssh://git:${GITHUB_TOKEN}@github.com/jackcenatempo/personal-site.git
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/jackcenatempo/personal-site.git
           npm run deploy
