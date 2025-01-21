@@ -14,7 +14,7 @@ const Index = () => (
         <Link to="/resume">resume / CV. </Link>
       </p>
     </article>
-    <article className="post" id="index"><p>I&apos;m not sure what to put here, so here are a few charts I&apos;ve made over the past few months. They don&apos;t mean anything together, so don&apos;t read into them too much!</p>
+    <article className="post" id="index"><p>I&apos;m not sure what to put here, so here are a few charts I&apos;ve made over the past few months. They don&apos;t mean anything together, so don&apos;t read into them too much.</p>
       <Link to="/" className="logo"><img src={`${PUBLIC_URL}/images/sample_of_work_8_23.png`} alt="" />
       </Link>
     </article>

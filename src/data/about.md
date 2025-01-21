@@ -4,7 +4,7 @@ I'm a first-year PhD student in Economics at Columbia University. Currently, I'm
 
 <br>
 
-Before that, I was a Predoctoral Research Assistant with the Economics and Computation group at Microsoft Research New England. 
+Before that, I was a Predoctoral Research Fellow with the Economics and Computation group at Microsoft Research New England. 
 - If you're curious about [E&C](https://www.microsoft.com/en-us/research/theme/economics-and-computation/overview/): "Economics informs what outcomes algorithms can compute in the presence of self-motivated individuals. Computer science offers a theory of complexity and approximation, thereby both imposing realistic constraints on the space of solutions and relaxing the metric by which we judge them. Together, these interdisciplinary researchers can design and build markets and platforms with robust and socially desirable properties." 
 - If you're curious about MSR, you can find out more [here](https://www.microsoft.com/en-us/research/). I was a member of the New England Research and Development Center (NERD). It's a unique, interdisciplinary lab where I interacted and collaborated with experts on biological sciences, sociotechnical systems, cryptography, sphere packing, and more.
 

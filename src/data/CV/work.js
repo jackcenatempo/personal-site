@@ -14,7 +14,7 @@
 const work = [
   {
     name: 'Microsoft Research',
-    position: 'Pre-Doctoral Research Assistant',
+    position: 'Predoctoral Research Fellow',
     url: 'https://www.microsoft.com/en-us/research/theme/economics-and-computation/',
     startDate: 'June 2022',
     summary: `The Economics and Computation group at Microsoft Research New England studies a variety of topics at the intersection of economics and computer science.

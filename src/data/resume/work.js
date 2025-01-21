@@ -14,7 +14,7 @@
 const work = [
   {
     name: 'Microsoft Research',
-    position: 'Pre-Doctoral Research Assistant',
+    position: 'Predoctoral Research Fellow',
     url: 'https://www.microsoft.com/en-us/research/theme/economics-and-computation/',
     startDate: 'June 2022',
     endDate: 'July 2024',
