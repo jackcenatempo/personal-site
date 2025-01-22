@@ -32,7 +32,7 @@ const work = [
   {
     name: 'Everything Else',
     position: 'My CV',
-    url: 'https://docs.google.com/document/d/1vTDXQ_l5cApoQfFeKJOR1U5WDdqzQVagThDioREzfhA/edit?usp=sharing',
+    url: 'https://drive.google.com/file/d/1DK3qxBE31Ocz58tl9NOFktgEjb-LMUUt/view?usp=sharing',
     startDate: 'March 1999',
     summary: 'You can find my CV at the link provided.',
   },

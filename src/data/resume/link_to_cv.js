@@ -1,7 +1,7 @@
 const cvlink = [
   {
     school: 'The University of Georgia',
-    link: 'https://docs.google.com/document/d/1vTDXQ_l5cApoQfFeKJOR1U5WDdqzQVagThDioREzfhA/edit?usp=sharing',
+    link: 'https://drive.google.com/file/d/1DK3qxBE31Ocz58tl9NOFktgEjb-LMUUt/view?usp=sharing',
     last_updated: 'June 2023',
   },
 ];

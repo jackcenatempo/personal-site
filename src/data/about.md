@@ -1,6 +1,6 @@
 
 ## What am I up to?
-I'm a first-year PhD student in Economics at Columbia University. Currently, I'm learning as much macro/microeconomic theory, econometrics, and mathematics as possible.
+I'm a first-year PhD student in Economics at Columbia University. Currently, I'm learning as much macro/microeconomic theory, econometrics, and mathematics as I possibly can.
 
 <br>
 

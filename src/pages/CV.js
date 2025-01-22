@@ -31,7 +31,7 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2><Link to="https://docs.google.com/document/d/1vTDXQ_l5cApoQfFeKJOR1U5WDdqzQVagThDioREzfhA/edit?usp=sharing">Click for Resume / CV</Link></h2>
+          <h2><Link to="https://drive.google.com/file/d/1DK3qxBE31Ocz58tl9NOFktgEjb-LMUUt/view?usp=sharing">Click for Resume / CV</Link></h2>
           <div className="link-container">
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
