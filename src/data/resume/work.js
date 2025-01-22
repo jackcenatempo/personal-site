@@ -13,20 +13,20 @@
  */
 const work = [
   {
-    name: 'Microsoft Research',
+    name: 'Microsoft Research New England',
     position: 'Predoctoral Research Fellow',
     url: 'https://www.microsoft.com/en-us/research/theme/economics-and-computation/',
     startDate: 'June 2022',
     endDate: 'July 2024',
-    summary: `The Economics and Computation group at Microsoft Research New England studies a variety of topics at the intersection of economics and computer science.
-    I've had the privilege of working on a wide variety of topics with unique datasets. A sample of the research topics I've worked on:`,
+    summary: `I worked with a team of scholars to investigate policy-relevant issues by leveraging a range of computational tools to analyze unique, proprietary data.
+    Here's a sample of the research questions I've helped answer:`,
     highlights: [
-      'Generative AI and its effects on collaboration and productivity within organizations',
-      'Search engine markets, network effects, and the role of defaults',
-      'Models of mid-range climate change, utility markets, and demographic change',
-      'Bias in human-annotated labeling systems',
-      'Demographic trends in hybrid work environments',
-      'Congestion pricing via HOT lanes',
+      'How do generative AI tools affect collaboration and productivity within organizations?',
+      'How do search engines learn, and how would a monopoly in the market for search impact this process?',
+      'Can we model utility markets and climate change to identify suboptimal regions for high-intensity data center construction?',
+      'Do human-annotated recommendation systems propagate latent cultural bias from their training data? Is this avoidable?',
+      "How does the transition to hybrid work affect participants' work performance, job satisfaction, and professional network?",
+      'Does dynamic pricing to bypass highway congestion improve travel times and reduce emissions?',
     ],
   },
 ];
