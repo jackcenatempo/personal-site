@@ -18,12 +18,12 @@ const work = [
     url: 'https://www.microsoft.com/en-us/research/theme/economics-and-computation/',
     startDate: 'June 2022',
     endDate: 'July 2024',
-    summary: `I worked with a team of scholars to investigate policy-relevant issues by leveraging a range of computational tools to analyze unique, proprietary data.
+    summary: `I worked with a team of economists and computer scientists to study policy-relevant issues by leveraging a range of computational tools to analyze unique data.
     Here's a sample of the research questions I've helped answer:`,
     highlights: [
       'How do generative AI tools affect collaboration and productivity within organizations?',
       'How do search engines learn, and how would a monopoly in the market for search impact this process?',
-      'Can we model utility markets and climate change to identify suboptimal regions for high-intensity data center construction?',
+      'Can we model utility markets, climate change, and demographic shifts to inform the optimal placement of resource-intensive data centers?',
       'Do human-annotated recommendation systems propagate latent cultural bias from their training data? Is this avoidable?',
       "How does the transition to hybrid work affect participants' work performance, job satisfaction, and professional network?",
       'Does dynamic pricing to bypass highway congestion improve travel times and reduce emissions?',
